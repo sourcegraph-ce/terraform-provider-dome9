@@ -1,7 +1,7 @@
 package dome9
 
 import (
-	"log"
+	log "github.com/sourcegraph-ce/logrus"
 	"net/http"
 	"net/url"
 	"os"
